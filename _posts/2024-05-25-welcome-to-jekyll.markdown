@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "A Demo Case"
 date:   2024-05-25 22:01:47 +0800
-categories: jekyll update
+categories: cat1 cat2
+author:
+  picture: /images/service_demo_img.jpg
+  name: member1
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

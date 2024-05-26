@@ -1,0 +1,15 @@
+# Sample site navigation bar links
+- title: Search
+  url: /search/
+- title: Service
+  url: /service/
+- title: Categories
+  url: /categories/
+- title: Case
+  url: /case/
+- title: Member
+  url: /member/
+# - title: Tags
+#   url: /tags/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
