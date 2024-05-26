@@ -19,9 +19,9 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "My Product Page"
 description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+baseurl: "/SimpleLandingPage" # the subpath of your site, e.g. "/blog"
+url: "https://angeladadd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false # reading time estimates, e.g. true
 date: false
